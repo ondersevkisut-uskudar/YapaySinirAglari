@@ -43,7 +43,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 
 1.  **Repoyu klonlayın:**
     ```bash
-    git clone [https://github.com/ondersevkisut-uskudar/YapaySinirAglari.git](https://github.com/ondersevkisut-uskudar/YapaySinirAglari.git)
+    git clone https://github.com/ondersevkisut-uskudar/YapaySinirAglari.git
     cd YapaySinirAglari
     ```
 
